@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e48dc8ea9237ce846a22cdfbe1e36539, type: 3}
+  m_Name: Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Link (etero cis)
+    characterSprite: {fileID: 8020143640844766479, guid: 9fc5d6a43aa83eb429f6b99f0b96c44f, type: 3}
+  - characterName: Zelda (indecisa)
+    characterSprite: {fileID: 8020143640844766479, guid: dc440e7bd5d941e46b62ffd98df540ac, type: 3}
+  - characterName: Andrea (gender fluid)
+    characterSprite: {fileID: 8020143640844766479, guid: 2279d2d97cee4a24785a38cf23d6faf6, type: 3}

@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartingScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection.unity
+    guid: 6ac712af47a83cb40a4a4bfb952670d5
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: a399e349df4bc9147b87ab0384bd702b
+  - enabled: 1
+    path: Assets/Scenes/Questionnaires/QuestionnairePHQ.unity
+    guid: 5961cd351b784034ea177e60d912b0d7
+  - enabled: 1
+    path: Assets/Scenes/CityEasy.unity
+    guid: e29024734cd920a4f8a21fd42b84ec6f
+  - enabled: 1
+    path: Assets/Scenes/DinoScene/DinoGame.unity
+    guid: 19f5da9f442ea1f4da251b1df2087d78
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameEasy/ChooseGarbageEasy.unity
+    guid: 3b6d55607d051894e9b1693cbabce4b6
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameEasy/BinPaperEasy.unity
+    guid: 33a6cb23907566c4aab04bb9532d0f8f
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameEasy/BinPlasticeasy.unity
+    guid: 466a43ef19a838a4d8ed01bd310b375b
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameEasy/BinWetEasy.unity
+    guid: 97de61e4a03bccc499e3c32ce389e644
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameEasy/BinGlassEasy.unity
+    guid: e760d66d1d6d7fa469cab6eb4d4f7d03
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameEasy/BinMixedEasy.unity
+    guid: 9fff3974c7fbe0a4fa3ab41a110d1580
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/QuizEasy/ChooseQuizEasy.unity
+    guid: b8befa4d02b2c624dbf46ceb29003c54
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/QuizEasy/QuizClimateChangeEasy.unity
+    guid: 57095e6fa4efeb9439b2042dfed98b51
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/QuizEasy/QuizeHealthEasy.unity
+    guid: ffd720d21b38e394a8d8bfb6678c7100
+  - enabled: 1
+    path: Assets/Scenes/CityMid.unity
+    guid: 1cc8d443290ec8c4c860d0082832546b
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameMid/ChooseGarbageMid.unity
+    guid: 8b69d6994f273d3419bd1db47129bb9d
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameMid/BinPaperMid.unity
+    guid: 8aa7bff19d9b07640bc55e08257fc227
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameMid/BinPlasticMid.unity
+    guid: 983fd01074847004cb60127224e5a7d8
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameMid/BinWetMid.unity
+    guid: df9d663b37b3f4a42a08a52615fde4b9
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameMid/BinGlassMid.unity
+    guid: e32a2c913bd0035419e78b30ea0c26b6
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameMid/BinMixedMid.unity
+    guid: 9625d6118307af74cac9df76c94c3e97
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/QuizMid/ChooseQuizMid.unity
+    guid: 707445ef612b22c4ebd787fbbd3e6a02
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/QuizMid/QuizClimateChangeMid.unity
+    guid: f9826fbf0c9cb594a815d6191a9ce4ad
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/QuizMid/QuizeHealthMid.unity
+    guid: be57658d600799b4bbe3f56f4b5fd5e4
+  - enabled: 1
+    path: Assets/Scenes/CityDifficult.unity
+    guid: f799183b1506c2e48b5282746e9a9856
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameDifficult/ChooseGarbageDifficult.unity
+    guid: 58e6a2aafe77c9246b48c98ac5e347cd
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameDifficult/BinPaperDifficult.unity
+    guid: 4fa9cf9d588814443b4451474c858952
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameDifficult/BinPlasticDifficult.unity
+    guid: 5fd3ae9d717e57d4a998694da24f0cc9
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameDifficult/BinWetDifficult.unity
+    guid: d0485d4110d7b2c4b8027a0464a3ae91
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameDifficult/BinGlassDIfficult.unity
+    guid: 2f4fbea8a949d0d46ae1f9a6b5788109
+  - enabled: 1
+    path: Assets/Scenes/BinGameScene/BinGameDifficult/BinMixedDifficult.unity
+    guid: 6925f8d718de8a04ca9dbc74e961cf8d
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/QuizDifficult/ChooseQuizDifficult.unity
+    guid: df760ab4b4a1beb43bd21aa774d0b46c
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/QuizDifficult/QuizClimateChangeDifficult.unity
+    guid: 2beac2ce9f79c06459b1bada4c025a2d
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/QuizDifficult/QuizeHealthDifficult.unity
+    guid: c3f5fbba407a20e41b3732300d874ae0
+  - enabled: 1
+    path: Assets/Scenes/NeverGonnaGiveYouUp.unity
+    guid: 5b055a4b13a89ce4bb21427e69661656
+  - enabled: 1
+    path: Assets/Tamagochi/Tamagochi/Tamagochi.unity
+    guid: 2b3ae6c1fb6ba654cb83390197d18edc
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
